@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "doctor": {
+            "id": 2,
+            "username": "metalcode",
+            "first_name": "Miracle",
+            "middle_name": "Ikemsinachi",
+            "last_name": "Ogbonna",
+            "profession": "Neurosurgeon",
+            "profile_img": "src/assets/images/happy-1836445__340.jpg",
+            "gender": "male",
+            "is_doctor": true
+        },
+        "question": {
+            "user": {
+                "id": 13,
+                "username": "isgoli",
+                "first_name": "Ishael",
+                "middle_name": "Godsman",
+                "last_name": "Leblion",
+                "gender": "male",
+                "is_doctor": false
+            },
+            "anonymous": false,
+            "title": "Why does someone have eye pain, is there any way to stop it.",
+            "category": {
+                "id": 24,
+                "name": "head"
+            },
+            "description": "I was on my bed i realize that i need to drink water of i will have eye pain, what should i do.",
+            "date_created": "2023-05-1",
+            "date_edited": "2023-05-1",
+            "hide": false,
+            "blocked": false
+        },
+        "answer": "You would need to get some food that will help you to see better and dont forget to get some food that you will like to eat on a daily basis.",
+        "date_created": "2023-05-16",
+        "date_edited": "2023-05-16"
+    },
+
+    {
+        "id": 3,
+        "doctor": {
+            "id": 4,
+            "username": "femi123",
+            "first_name": "femi",
+            "middle_name": "Tola",
+            "last_name": "Akinkumi",
+            "profile_img": "src/assets/images/happy-1836445__340.jpg",
+            "gender": "female",
+            "is_doctor": true
+        },
+        "question": {
+            "user": {
+                "id": 13,
+                "username": "isgoli",
+                "first_name": "Ishael",
+                "middle_name": "Godsman",
+                "last_name": "Leblion",
+                "gender": "male",
+                "is_doctor": false
+            },
+            "anonymous": false,
+            "title": "Why does someone have eye pain, is there any way to stop it.",
+            "category": {
+                "id": 24,
+                "name": "head"
+            },
+            "description": "I was on my bed i realize that i need to drink water of i will have eye pain, what should i do.",
+            "date_created": "2023-05-10",
+            "date_edited": "2023-05-10",
+            "hide": false,
+            "blocked": false
+        },
+        "answer": "You would need to get some food that will help you to see better and dont forget to get some food that you will like to eat on a daily basis.",
+        "date_created": "2023-05-16",
+        "date_edited": "2023-05-16"
+    }
+]
