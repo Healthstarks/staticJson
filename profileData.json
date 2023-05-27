@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "username": "peterma34",
+    "first_name": "Peter",
+    "middle_name": "Ikemsinachi",
+    "last_name": "Marcos",
+    "gender": "male",
+    "profile_img": "/src/assets/images/happy-1836445__340.jpg",
+    "background_img": "/src/assets/images/happy-1836445__340.jpg",
+    "country": "Nigeria",
+    "is_doctor": false,
+    "questions_asked": 53,
+    "followers": 47,
+    "following": 123
+}
