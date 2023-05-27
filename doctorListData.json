@@ -1,0 +1,38 @@
+[
+    {
+        "id": 2,
+        "username": "metalcode",
+        "first_name": "Miracle",
+        "middle_name": "Ikemsinachi",
+        "last_name": "Ogbonna",
+        "profession": "Neurosurgeon",
+        "profile_img": "src/assets/images/happy-1836445__340.jpg",
+        "gender": "male",
+        "is_doctor": true,
+        "upvotes": "27.5k"
+    },
+    {
+        "id": 3,
+        "username": "adel660",
+        "first_name": "Adora",
+        "middle_name": "Shola",
+        "last_name": "Delman",
+        "profession": "Pediatric",
+        "profile_img": "src/assets/images/happy-1836445__340.jpg",
+        "gender": "female",
+        "is_doctor": true,
+        "upvotes": "34.3k"
+    },
+    {
+        "id": 4,
+        "username": "fedit34",
+        "first_name": "Femi",
+        "middle_name": "Ikechukwu",
+        "last_name": "Adeola",
+        "profession": "Pyschologist",
+        "profile_img": "src/assets/images/happy-1836445__340.jpg",
+        "gender": "male",
+        "is_doctor": true,
+        "upvotes": "127.7k"
+    }
+]
